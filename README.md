@@ -3,4 +3,4 @@ a intro to terminal
 
 
 
-![gif image]()
+![gif image](cli-intro.gif)
